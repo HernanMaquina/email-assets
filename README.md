@@ -19,7 +19,8 @@ Por ejemplo: `https://hernanmaquina.github.io/email-assets/logos/maquina-motors-
 logos/
   honda-logo-horizontal-rojo.png   Honda horizontal (escritorio), rojo #EB212C
   honda-logo-apilado-rojo.png      Honda apilado (móvil), rojo #EB212C
-  maquina-motors-logo.png          Maquina Motors sobre blanco, rojo #EB212C
+  maquina-motors-logo.png          Maquina Motors sobre fondo blanco opaco, rojo #EB212C
+  maquina-motors-logo-blanco.png   Maquina Motors con texto blanco, para modo oscuro
 motos/
   forza-125/
     forza-125-<color>-grande.png   960×540, para la foto principal
